@@ -1,0 +1,1 @@
+Esse repositorio é responsável para o estudo da linguagem C# e da plataforma .NET.
