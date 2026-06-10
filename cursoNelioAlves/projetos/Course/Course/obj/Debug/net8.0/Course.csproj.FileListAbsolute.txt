@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\bin\Debug\net8.0\Course.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\bin\Debug\net8.0\Course.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\bin\Debug\net8.0\Course.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\bin\Debug\net8.0\Course.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\bin\Debug\net8.0\Course.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\obj\Debug\net8.0\Course.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\obj\Debug\net8.0\Course.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\obj\Debug\net8.0\Course.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\obj\Debug\net8.0\refint\Course.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\obj\Debug\net8.0\Course.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\obj\Debug\net8.0\Course.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoNelioAlves\projetos\Course\Course\obj\Debug\net8.0\ref\Course.dll
