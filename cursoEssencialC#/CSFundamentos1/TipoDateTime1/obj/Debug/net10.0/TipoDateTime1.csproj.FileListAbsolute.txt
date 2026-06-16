@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\bin\Debug\net10.0\TipoDateTime1.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\bin\Debug\net10.0\TipoDateTime1.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\bin\Debug\net10.0\TipoDateTime1.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\bin\Debug\net10.0\TipoDateTime1.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\bin\Debug\net10.0\TipoDateTime1.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\obj\Debug\net10.0\refint\TipoDateTime1.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TipoDateTime1\obj\Debug\net10.0\ref\TipoDateTime1.dll

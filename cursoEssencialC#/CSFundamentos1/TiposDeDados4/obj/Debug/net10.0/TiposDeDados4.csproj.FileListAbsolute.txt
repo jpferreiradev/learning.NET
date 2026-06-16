@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\bin\Debug\net10.0\TiposDeDados4.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\bin\Debug\net10.0\TiposDeDados4.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\bin\Debug\net10.0\TiposDeDados4.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\bin\Debug\net10.0\TiposDeDados4.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\bin\Debug\net10.0\TiposDeDados4.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\obj\Debug\net10.0\TiposDeDados4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\obj\Debug\net10.0\TiposDeDados4.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\obj\Debug\net10.0\TiposDeDados4.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\obj\Debug\net10.0\TiposDeDados4.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\obj\Debug\net10.0\TiposDeDados4.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\obj\Debug\net10.0\TiposDeDados4.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\obj\Debug\net10.0\refint\TiposDeDados4.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\obj\Debug\net10.0\TiposDeDados4.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\obj\Debug\net10.0\TiposDeDados4.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\TiposDeDados4\obj\Debug\net10.0\ref\TiposDeDados4.dll
