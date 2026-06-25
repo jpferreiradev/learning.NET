@@ -1,9 +1,24 @@
 <Solution>
+  <Project Path="Constantes1/Constantes1.csproj" Id="2511959e-b97c-46f2-8cf8-b8c246082ea4" />
+  <Project Path="ConversaoDeTipos/ConversaoDeTipos.csproj" Id="228174b0-c17b-498a-9796-18fe9989bb7b" />
+  <Project Path="EntradaDeDados/EntradaDeDados.csproj" Id="df29b59c-22dc-47d2-ad98-ba7569c74941" />
+  <Project Path="ExerciciosLista01/ExerciciosLista01.csproj" Id="ba90ce9b-7f21-43c3-9165-8b4449ff564c" />
   <Project Path="Identificadores/Identificadores.csproj" Id="902ae7a4-7d37-4440-8a3a-229baa29973b" />
+  <Project Path="InferenciaTipos1/InferenciaTipos1.csproj" Id="82570178-dede-4518-a7b9-3cc7186b014e" />
   <Project Path="NullableTypes1/NullableTypes1.csproj" Id="97ea22d3-5f9a-4225-9931-eb94507f2c2b" />
+  <Project Path="OperadoresAritimetricos/OperadoresAritimetricos.csproj" Id="e577bb2a-d528-454e-a29c-b911a6365033" />
+  <Project Path="OperadoresAtribuicao/OperadoresAtribuicao.csproj" Id="3649753d-2a91-49f1-8fec-bc9f9efd26ec" />
+  <Project Path="OperadoresIncrementoDecremento/OperadoresIncrementoDecremento.csproj" Id="a1962990-5a9b-4c45-a249-1eb7a560b80c" />
+  <Project Path="OperadoresLogicos1/OperadoresLogicos1.csproj" Id="ced27f46-bd59-49b9-8a62-8b69c279772e" />
+  <Project Path="OperadoresRelacionais/OperadoresRelacionais.csproj" Id="89924bbf-2a36-4180-b47d-08fdc2ccd951" />
+  <Project Path="OperadorTernario/OperadorTernario.csproj" Id="f671ae76-a696-4229-a641-4338bd6714a0" />
+  <Project Path="PrecedenciaDeOperadores/PrecedenciaDeOperadores.csproj" Id="0aaa5d08-ecae-40d0-a945-27d741a37c9c" />
+  <Project Path="SaidaDeDados/SaidaDeDados.csproj" Id="61798018-dba1-4f67-aae1-94561ec91a4b" />
+  <Project Path="SaidaDedados2/SaidaDedados2.csproj" Id="0eb92da1-ffdd-4034-8a9b-455840d7e9af" />
   <Project Path="TipoDateTime1/TipoDateTime1.csproj" />
   <Project Path="TipoDeDados2/TipoDeDados2.csproj" />
   <Project Path="TiposDeDados1/TiposDeDados1.csproj" />
   <Project Path="TiposDeDados3/TiposDeDados3.csproj" />
   <Project Path="TiposDeDados4/TiposDeDados4.csproj" />
+  <Project Path="TiposDeReferenciaAnulaveis/TiposDeReferenciaAnulaveis.csproj" Id="8ae6546f-b774-4938-9055-98e1ba336926" />
 </Solution>

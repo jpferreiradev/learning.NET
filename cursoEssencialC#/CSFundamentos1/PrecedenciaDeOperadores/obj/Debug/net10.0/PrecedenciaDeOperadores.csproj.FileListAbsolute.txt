@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net10.0\PrecedenciaDeOperadores.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net10.0\PrecedenciaDeOperadores.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net10.0\PrecedenciaDeOperadores.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net10.0\PrecedenciaDeOperadores.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net10.0\PrecedenciaDeOperadores.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net10.0\PrecedenciaDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net10.0\PrecedenciaDeOperadores.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net10.0\PrecedenciaDeOperadores.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net10.0\PrecedenciaDeOperadores.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net10.0\PrecedenciaDeOperadores.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net10.0\PrecedenciaDeOperadores.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net10.0\refint\PrecedenciaDeOperadores.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net10.0\PrecedenciaDeOperadores.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net10.0\PrecedenciaDeOperadores.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net10.0\ref\PrecedenciaDeOperadores.dll

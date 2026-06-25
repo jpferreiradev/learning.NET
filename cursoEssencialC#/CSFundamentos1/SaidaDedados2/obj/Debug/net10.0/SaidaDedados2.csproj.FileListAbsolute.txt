@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\bin\Debug\net10.0\SaidaDedados2.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\bin\Debug\net10.0\SaidaDedados2.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\bin\Debug\net10.0\SaidaDedados2.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\bin\Debug\net10.0\SaidaDedados2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\bin\Debug\net10.0\SaidaDedados2.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\obj\Debug\net10.0\SaidaDedados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\obj\Debug\net10.0\SaidaDedados2.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\obj\Debug\net10.0\SaidaDedados2.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\obj\Debug\net10.0\SaidaDedados2.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\obj\Debug\net10.0\SaidaDedados2.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\obj\Debug\net10.0\SaidaDedados2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\obj\Debug\net10.0\refint\SaidaDedados2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\obj\Debug\net10.0\SaidaDedados2.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\obj\Debug\net10.0\SaidaDedados2.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\SaidaDedados2\obj\Debug\net10.0\ref\SaidaDedados2.dll

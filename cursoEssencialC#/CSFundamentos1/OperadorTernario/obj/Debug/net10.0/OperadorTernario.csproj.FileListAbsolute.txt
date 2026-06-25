@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\bin\Debug\net10.0\OperadorTernario.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\bin\Debug\net10.0\OperadorTernario.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\bin\Debug\net10.0\OperadorTernario.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\bin\Debug\net10.0\OperadorTernario.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\bin\Debug\net10.0\OperadorTernario.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\obj\Debug\net10.0\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\obj\Debug\net10.0\OperadorTernario.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\obj\Debug\net10.0\OperadorTernario.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\obj\Debug\net10.0\OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\obj\Debug\net10.0\OperadorTernario.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\obj\Debug\net10.0\OperadorTernario.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\obj\Debug\net10.0\refint\OperadorTernario.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\obj\Debug\net10.0\OperadorTernario.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\obj\Debug\net10.0\OperadorTernario.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\OperadorTernario\obj\Debug\net10.0\ref\OperadorTernario.dll

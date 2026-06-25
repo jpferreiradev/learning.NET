@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\bin\Debug\net10.0\InferenciaTipos1.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\bin\Debug\net10.0\InferenciaTipos1.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\bin\Debug\net10.0\InferenciaTipos1.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\bin\Debug\net10.0\InferenciaTipos1.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\bin\Debug\net10.0\InferenciaTipos1.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\obj\Debug\net10.0\InferenciaTipos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\obj\Debug\net10.0\InferenciaTipos1.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\obj\Debug\net10.0\InferenciaTipos1.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\obj\Debug\net10.0\InferenciaTipos1.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\obj\Debug\net10.0\InferenciaTipos1.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\obj\Debug\net10.0\InferenciaTipos1.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\obj\Debug\net10.0\refint\InferenciaTipos1.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\obj\Debug\net10.0\InferenciaTipos1.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\obj\Debug\net10.0\InferenciaTipos1.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CSFundamentos1\InferenciaTipos1\obj\Debug\net10.0\ref\InferenciaTipos1.dll
