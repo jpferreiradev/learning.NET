@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\obj\Debug\net10.0\3Estrutura_if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\obj\Debug\net10.0\3Estrutura_if_else_if.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\obj\Debug\net10.0\3Estrutura_if_else_if.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\obj\Debug\net10.0\3Estrutura_if_else_if.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\obj\Debug\net10.0\3Estrutura_if_else_if.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\bin\Debug\net10.0\3Estrutura_if_else_if.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\bin\Debug\net10.0\3Estrutura_if_else_if.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\bin\Debug\net10.0\3Estrutura_if_else_if.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\bin\Debug\net10.0\3Estrutura_if_else_if.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\bin\Debug\net10.0\3Estrutura_if_else_if.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\obj\Debug\net10.0\3Estrutura_if_else_if.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\obj\Debug\net10.0\refint\3Estrutura_if_else_if.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\obj\Debug\net10.0\3Estrutura_if_else_if.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\obj\Debug\net10.0\3Estrutura_if_else_if.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\3Estrutura_if_else_if\obj\Debug\net10.0\ref\3Estrutura_if_else_if.dll

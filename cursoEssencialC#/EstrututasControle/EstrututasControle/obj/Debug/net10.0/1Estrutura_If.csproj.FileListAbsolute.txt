@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\bin\Debug\net10.0\1Estrutura_If.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\bin\Debug\net10.0\1Estrutura_If.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\bin\Debug\net10.0\1Estrutura_If.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\bin\Debug\net10.0\1Estrutura_If.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\bin\Debug\net10.0\1Estrutura_If.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\obj\Debug\net10.0\1Estrutura_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\obj\Debug\net10.0\1Estrutura_If.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\obj\Debug\net10.0\1Estrutura_If.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\obj\Debug\net10.0\1Estrutura_If.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\obj\Debug\net10.0\1Estrutura_If.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\obj\Debug\net10.0\1Estrutura_If.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\obj\Debug\net10.0\refint\1Estrutura_If.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\obj\Debug\net10.0\1Estrutura_If.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\obj\Debug\net10.0\1Estrutura_If.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstrututasControle\obj\Debug\net10.0\ref\1Estrutura_If.dll

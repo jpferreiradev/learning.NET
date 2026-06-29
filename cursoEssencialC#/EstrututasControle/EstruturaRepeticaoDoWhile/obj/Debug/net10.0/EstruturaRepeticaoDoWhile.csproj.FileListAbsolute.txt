@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\bin\Debug\net10.0\EstruturaRepeticaoDoWhile.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\bin\Debug\net10.0\EstruturaRepeticaoDoWhile.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\bin\Debug\net10.0\EstruturaRepeticaoDoWhile.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\bin\Debug\net10.0\EstruturaRepeticaoDoWhile.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\bin\Debug\net10.0\EstruturaRepeticaoDoWhile.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\obj\Debug\net10.0\EstruturaRepeticaoDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\obj\Debug\net10.0\EstruturaRepeticaoDoWhile.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\obj\Debug\net10.0\EstruturaRepeticaoDoWhile.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\obj\Debug\net10.0\EstruturaRepeticaoDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\obj\Debug\net10.0\EstruturaRepeticaoDoWhile.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\obj\Debug\net10.0\EstruturaRepeticaoDoWhile.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\obj\Debug\net10.0\refint\EstruturaRepeticaoDoWhile.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\obj\Debug\net10.0\EstruturaRepeticaoDoWhile.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\obj\Debug\net10.0\EstruturaRepeticaoDoWhile.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\EstruturaRepeticaoDoWhile\obj\Debug\net10.0\ref\EstruturaRepeticaoDoWhile.dll

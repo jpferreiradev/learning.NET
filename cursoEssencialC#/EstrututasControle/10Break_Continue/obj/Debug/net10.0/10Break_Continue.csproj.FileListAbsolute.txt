@@ -1,0 +1,15 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\bin\Debug\net10.0\10Break_Continue.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\bin\Debug\net10.0\10Break_Continue.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\bin\Debug\net10.0\10Break_Continue.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\bin\Debug\net10.0\10Break_Continue.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\bin\Debug\net10.0\10Break_Continue.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\obj\Debug\net10.0\10Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\obj\Debug\net10.0\10Break_Continue.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\obj\Debug\net10.0\10Break_Continue.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\obj\Debug\net10.0\10Break_Continue.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\obj\Debug\net10.0\10Break_Continue.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\obj\Debug\net10.0\10Break_Continue.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\obj\Debug\net10.0\refint\10Break_Continue.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\obj\Debug\net10.0\10Break_Continue.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\obj\Debug\net10.0\10Break_Continue.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\EstrututasControle\10Break_Continue\obj\Debug\net10.0\ref\10Break_Continue.dll

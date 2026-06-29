@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="10Break_Continue/9Break_Continue.csproj" Id="4eb9124a-c327-4947-8a7f-a3963c7e2191" />
+  <Project Path="2Estrutura_If_else/2Estrutura_If_else.csproj" />
+  <Project Path="3Estrutura_if_else_if/3Estrutura_if_else_if.csproj" />
+  <Project Path="4Estrutura_switch_case/4Estrutura_switch_case.csproj" />
+  <Project Path="EstruturaDeRepeticaoGotoLabel/5EstruturaDeRepeticaoGotoLabel.csproj" Id="14f2f19a-ab32-4ef5-9f10-169060359f8e" />
+  <Project Path="EstruturaFor/6EstruturaFor.csproj" Id="1c134681-f304-4e2a-b26a-cf474a274447" />
+  <Project Path="EstruturaRepeticaoDoWhile/7EstruturaRepeticaoDoWhile.csproj" Id="d084f8ba-7cb2-4535-9f99-6d37cea9cb89" />
+  <Project Path="EstruturaRepeticaoWhile/8EstruturaRepeticaoWhile.csproj" Id="fba0b80e-b523-4d8b-bab2-bbcf3ef7c64b" />
+  <Project Path="EstrututasControle/1Estrutura_If.csproj" />
+</Solution>
