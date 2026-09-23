@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\bin\Debug\net10.0\Identificadores.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\bin\Debug\net10.0\Identificadores.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\bin\Debug\net10.0\Identificadores.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\bin\Debug\net10.0\Identificadores.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\bin\Debug\net10.0\Identificadores.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\Identificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\Identificadores.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\Identificadores.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\Identificadores.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\Identificadores.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\Identificadores.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\refint\Identificadores.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\Identificadores.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\Identificadores.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\ref\Identificadores.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\Identificadores\obj\Debug\net10.0\Identifi.B6AE90C7.Up2Date

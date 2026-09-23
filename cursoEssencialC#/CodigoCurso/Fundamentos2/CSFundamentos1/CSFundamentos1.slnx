@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Identificadores/Identificadores.csproj" Id="4500f107-9de9-4424-9058-29388b9070bf" />
+  <Project Path="NullableTypes1/NullableTypes1.csproj" Id="47e30422-b6ef-46e3-8740-6b75f3ce503f" />
+  <Project Path="TipoDateTime1/TipoDateTime1.csproj" Id="81a38b89-e9a9-4a1c-b1cc-a2f2c752035d" />
+  <Project Path="TiposDeDados1/TiposDeDados1.csproj" />
+  <Project Path="TiposDeDados2/TiposDeDados2.csproj" />
+  <Project Path="TiposDeDados3/TiposDeDados3.csproj" />
+  <Project Path="TiposDeDados4/TiposDeDados4.csproj" />
+</Solution>

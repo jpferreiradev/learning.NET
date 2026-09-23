@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\refint\TiposDeDados2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\ref\TiposDeDados2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeD.902448DC.Up2Date

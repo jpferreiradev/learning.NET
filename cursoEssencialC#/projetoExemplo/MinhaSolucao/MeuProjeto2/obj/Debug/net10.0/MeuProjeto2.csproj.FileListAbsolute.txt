@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\bin\Debug\net10.0\MeuProjeto2.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\bin\Debug\net10.0\MeuProjeto2.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\bin\Debug\net10.0\MeuProjeto2.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\bin\Debug\net10.0\MeuProjeto2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\bin\Debug\net10.0\MeuProjeto2.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\MeuProjeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\MeuProjeto2.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\MeuProjeto2.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\MeuProjeto2.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\MeuProjeto2.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\MeuProjeto2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\refint\MeuProjeto2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\MeuProjeto2.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\MeuProjeto2.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\ref\MeuProjeto2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\projetoExemplo\MinhaSolucao\MeuProjeto2\obj\Debug\net10.0\MeuProje.9984A95C.Up2Date
