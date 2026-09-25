@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\bin\Debug\net10.0\OperadoresAritmetricos.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\bin\Debug\net10.0\OperadoresAritmetricos.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\bin\Debug\net10.0\OperadoresAritmetricos.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\bin\Debug\net10.0\OperadoresAritmetricos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\bin\Debug\net10.0\OperadoresAritmetricos.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\OperadoresAritmetricos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\OperadoresAritmetricos.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\OperadoresAritmetricos.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\OperadoresAritmetricos.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\OperadoresAritmetricos.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\OperadoresAritmetricos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\refint\OperadoresAritmetricos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\OperadoresAritmetricos.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\OperadoresAritmetricos.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\ref\OperadoresAritmetricos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\OperadoresAritmetricos\obj\Debug\net10.0\Operador.1F5D42E3.Up2Date

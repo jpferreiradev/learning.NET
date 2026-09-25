@@ -1,6 +1,21 @@
 <Solution>
+  <Project Path="Constantes/Constantes1.csproj" Id="b1d71514-3d89-4922-b254-48c3b55f211a" />
+  <Project Path="ConversaoDeTipos2/ConversaoDeTipos2.csproj" Id="6d505c37-0ac0-43e2-bd07-2a7ad313e782" />
+  <Project Path="CoversaoDeTipos/CoversaoDeTipos.csproj" Id="8627cfe5-044b-4284-88c6-57a352b08028" />
+  <Project Path="EntradaDeDados/EntradaDeDados.csproj" Id="18a11be9-073c-4bc5-8f6a-bdd0e8386cc7" />
   <Project Path="Identificadores/Identificadores.csproj" Id="4500f107-9de9-4424-9058-29388b9070bf" />
+  <Project Path="InferenciaDeTipos/InferenciaDeTipos1.csproj" Id="6ebd0cae-6cac-46fc-9410-61c38530a6bb" />
+  <Project Path="NullableReferenciaTypes2/NullableReferenciaTypes2.csproj" Id="8074e8ba-f566-449c-b5cb-a007b3391fa6" />
   <Project Path="NullableTypes1/NullableTypes1.csproj" Id="47e30422-b6ef-46e3-8740-6b75f3ce503f" />
+  <Project Path="OperadoresAritmetricos/OperadoresAritmetricos.csproj" Id="f0762503-59b6-4642-bebf-380854fe69d3" />
+  <Project Path="OperadoresDeAtribuicao/OperadoresDeAtribuicao.csproj" Id="5ff226fa-3dac-4a1c-ab7f-141002184e9a" />
+  <Project Path="OperadoresIncrementoDecremento1/OperadoresIncrementoDecremento1.csproj" Id="9401b748-85da-48b3-a97b-4abd63aaca24" />
+  <Project Path="OperadoresLogicos/OperadoresLogicos.csproj" Id="02fbcdbc-661c-428b-bef1-152e11b5b00f" />
+  <Project Path="OperadoresRelacionais/OperadoresRelacionais.csproj" Id="8ef064f6-700a-434b-aa50-72d1ab2e5bce" />
+  <Project Path="OperadoresUniarioTernario/OperadoresUniarioTernario.csproj" Id="f86c8d65-ba94-4db1-bef4-e785315d2baa" />
+  <Project Path="PrecedenciaOperadores1/PrecedenciaOperadores1.csproj" Id="4ca0dc13-7501-4da7-80fd-a515ea27b2d3" />
+  <Project Path="SaidaDeDados/SaidaDeDados.csproj" Id="726003c8-275c-458c-b5df-c72cff14ab99" />
+  <Project Path="SaidaDeDados2/SaidaDeDados2.csproj" Id="e25d0782-5088-4c9a-aeba-02375897d4b8" />
   <Project Path="TipoDateTime1/TipoDateTime1.csproj" Id="81a38b89-e9a9-4a1c-b1cc-a2f2c752035d" />
   <Project Path="TiposDeDados1/TiposDeDados1.csproj" />
   <Project Path="TiposDeDados2/TiposDeDados2.csproj" />

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4500F107-9DE9-4424-9058-29388B9070BF}|Identificadores\\Identificadores.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\fundamentos2\\csfundamentos1\\identificadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4500F107-9DE9-4424-9058-29388B9070BF}|Identificadores\\Identificadores.csproj|solutionrelative:identificadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F86C8D65-BA94-4DB1-BEF4-E785315D2BAA}|OperadoresUniarioTernario\\OperadoresUniarioTernario.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\fundamentos2\\csfundamentos1\\operadoresuniarioternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86C8D65-BA94-4DB1-BEF4-E785315D2BAA}|OperadoresUniarioTernario\\OperadoresUniarioTernario.csproj|solutionrelative:operadoresuniarioternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47E30422-B6EF-46E3-8740-6B75F3CE503F}|NullableTypes1\\NullableTypes1.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\fundamentos2\\csfundamentos1\\nullabletypes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47E30422-B6EF-46E3-8740-6B75F3CE503F}|NullableTypes1\\NullableTypes1.csproj|solutionrelative:nullabletypes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A38B89-E9A9-4A1C-B1CC-A2F2C752035D}|TipoDateTime1\\TipoDateTime1.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\fundamentos2\\csfundamentos1\\tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A38B89-E9A9-4A1C-B1CC-A2F2C752035D}|TipoDateTime1\\TipoDateTime1.csproj|solutionrelative:tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8074E8BA-F566-449C-B5CB-A007B3391FA6}|NullableReferenciaTypes2\\NullableReferenciaTypes2.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\fundamentos2\\csfundamentos1\\nullablereferenciatypes2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8074E8BA-F566-449C-B5CB-A007B3391FA6}|NullableReferenciaTypes2\\NullableReferenciaTypes2.csproj|solutionrelative:nullablereferenciatypes2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +24,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\Identificadores\\Program.cs",
-              "RelativeDocumentMoniker": "Identificadores\\Program.cs",
-              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\Identificadores\\Program.cs",
-              "RelativeToolTip": "Identificadores\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAWwCQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\OperadoresUniarioTernario\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresUniarioTernario\\Program.cs",
+              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\OperadoresUniarioTernario\\Program.cs",
+              "RelativeToolTip": "OperadoresUniarioTernario\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvykAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T13:01:15.719Z",
+              "WhenOpened": "2026-09-25T20:02:51.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\NullableTypes1\\Program.cs",
-              "RelativeDocumentMoniker": "NullableTypes1\\Program.cs",
-              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\NullableTypes1\\Program.cs",
-              "RelativeToolTip": "NullableTypes1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\NullableReferenciaTypes2\\Program.cs",
+              "RelativeDocumentMoniker": "NullableReferenciaTypes2\\Program.cs",
+              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\NullableReferenciaTypes2\\Program.cs",
+              "RelativeToolTip": "NullableReferenciaTypes2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T20:39:04.125Z",
+              "WhenOpened": "2026-09-25T19:41:19.93Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\TipoDateTime1\\Program.cs",
-              "RelativeDocumentMoniker": "TipoDateTime1\\Program.cs",
-              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\TipoDateTime1\\Program.cs",
-              "RelativeToolTip": "TipoDateTime1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T12:23:32.082Z"
             }
           ]
         }

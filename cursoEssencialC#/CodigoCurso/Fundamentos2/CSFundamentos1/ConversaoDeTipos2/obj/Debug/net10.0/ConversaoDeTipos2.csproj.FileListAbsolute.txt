@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\bin\Debug\net10.0\ConversaoDeTipos2.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\bin\Debug\net10.0\ConversaoDeTipos2.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\bin\Debug\net10.0\ConversaoDeTipos2.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\bin\Debug\net10.0\ConversaoDeTipos2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\bin\Debug\net10.0\ConversaoDeTipos2.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\ConversaoDeTipos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\ConversaoDeTipos2.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\ConversaoDeTipos2.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\ConversaoDeTipos2.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\ConversaoDeTipos2.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\ConversaoDeTipos2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\refint\ConversaoDeTipos2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\ConversaoDeTipos2.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\ConversaoDeTipos2.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\ref\ConversaoDeTipos2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\CSFundamentos1\ConversaoDeTipos2\obj\Debug\net10.0\Conversa.D0F5F4AA.Up2Date
