@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\bin\Debug\net10.0\9Repeticao_doWhile.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\bin\Debug\net10.0\9Repeticao_doWhile.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\bin\Debug\net10.0\9Repeticao_doWhile.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\bin\Debug\net10.0\9Repeticao_doWhile.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\bin\Debug\net10.0\9Repeticao_doWhile.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\9Repeticao_doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\9Repeticao_doWhile.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\9Repeticao_doWhile.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\9Repeticao_doWhile.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\9Repeticao_doWhile.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\9Repeticao_doWhile.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\refint\9Repeticao_doWhile.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\9Repeticao_doWhile.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\9Repeticao_doWhile.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\ref\9Repeticao_doWhile.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\9Repeticao_doWhile\obj\Debug\net10.0\9Repetic.0A1FDB2E.Up2Date

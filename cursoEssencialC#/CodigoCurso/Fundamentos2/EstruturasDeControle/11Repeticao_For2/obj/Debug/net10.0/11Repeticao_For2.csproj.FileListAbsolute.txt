@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\bin\Debug\net10.0\11Repeticao_For2.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\bin\Debug\net10.0\11Repeticao_For2.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\bin\Debug\net10.0\11Repeticao_For2.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\bin\Debug\net10.0\11Repeticao_For2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\bin\Debug\net10.0\11Repeticao_For2.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\11Repeticao_For2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\11Repeticao_For2.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\11Repeticao_For2.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\11Repeticao_For2.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\11Repeticao_For2.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\11Repeticao_For2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\refint\11Repeticao_For2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\11Repeticao_For2.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\11Repeticao_For2.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\ref\11Repeticao_For2.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\Fundamentos2\EstruturasDeControle\11Repeticao_For2\obj\Debug\net10.0\11Repeti.EE75F761.Up2Date

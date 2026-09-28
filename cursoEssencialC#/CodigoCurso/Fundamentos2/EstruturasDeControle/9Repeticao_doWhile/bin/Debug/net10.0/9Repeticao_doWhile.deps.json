@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "9Repeticao_doWhile/1.0.0": {
+        "runtime": {
+          "9Repeticao_doWhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9Repeticao_doWhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EstruturaSwitch2/1.0.0": {
+        "runtime": {
+          "EstruturaSwitch2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstruturaSwitch2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
