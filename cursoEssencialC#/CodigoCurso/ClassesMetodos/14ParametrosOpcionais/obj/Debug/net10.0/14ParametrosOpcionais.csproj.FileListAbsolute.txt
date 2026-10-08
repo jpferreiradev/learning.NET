@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\bin\Debug\net10.0\14ParametrosOpcionais.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\bin\Debug\net10.0\14ParametrosOpcionais.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\bin\Debug\net10.0\14ParametrosOpcionais.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\bin\Debug\net10.0\14ParametrosOpcionais.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\bin\Debug\net10.0\14ParametrosOpcionais.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\14ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\14ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\14ParametrosOpcionais.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\14ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\14ParametrosOpcionais.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\14ParametrosOpcionais.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\refint\14ParametrosOpcionais.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\14ParametrosOpcionais.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\14ParametrosOpcionais.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\ref\14ParametrosOpcionais.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\14ParametrosOpcionais\obj\Debug\net10.0\14Parame.ED46FFDC.Up2Date

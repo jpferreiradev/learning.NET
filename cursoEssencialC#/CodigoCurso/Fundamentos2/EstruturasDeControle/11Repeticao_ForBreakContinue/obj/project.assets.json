@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\EstruturasDeControle\\11Repeticao_ForBreakContinue\\11Repeticao_ForBreakContinue.csproj",
-      "projectName": "11Repeticao_ForBreakContinue",
-      "projectPath": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\EstruturasDeControle\\11Repeticao_ForBreakContinue\\11Repeticao_ForBreakContinue.csproj",
+      "projectUniqueName": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\EstruturasDeControle\\11Repeticao_ForBreakContinue\\12Repeticao_ForBreakContinue.csproj",
+      "projectName": "12Repeticao_ForBreakContinue",
+      "projectPath": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\EstruturasDeControle\\11Repeticao_ForBreakContinue\\12Repeticao_ForBreakContinue.csproj",
       "packagesPath": "C:\\Users\\jopas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\EstruturasDeControle\\11Repeticao_ForBreakContinue\\obj\\",
       "projectStyle": "PackageReference",

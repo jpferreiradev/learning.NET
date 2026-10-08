@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\bin\Debug\net10.0\7MetodosComRetorno.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\bin\Debug\net10.0\7MetodosComRetorno.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\bin\Debug\net10.0\7MetodosComRetorno.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\bin\Debug\net10.0\7MetodosComRetorno.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\bin\Debug\net10.0\7MetodosComRetorno.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\7MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\7MetodosComRetorno.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\7MetodosComRetorno.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\7MetodosComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\7MetodosComRetorno.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\7MetodosComRetorno.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\refint\7MetodosComRetorno.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\7MetodosComRetorno.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\7MetodosComRetorno.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\ref\7MetodosComRetorno.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\7MetodosComRetorno\obj\Debug\net10.0\7Metodos.F833C26F.Up2Date

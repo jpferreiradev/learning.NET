@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\bin\Debug\net10.0\4PassandoParametros.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\bin\Debug\net10.0\4PassandoParametros.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\bin\Debug\net10.0\4PassandoParametros.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\bin\Debug\net10.0\4PassandoParametros.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\bin\Debug\net10.0\4PassandoParametros.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\4PassandoParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\4PassandoParametros.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\4PassandoParametros.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\4PassandoParametros.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\4PassandoParametros.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\4PassandoParametros.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\refint\4PassandoParametros.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\4PassandoParametros.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\4PassandoParametros.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\ref\4PassandoParametros.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\4PassandoParametros\obj\Debug\net10.0\4Passand.B449FFE4.Up2Date

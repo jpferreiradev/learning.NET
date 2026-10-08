@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\bin\Debug\net10.0\3MetodoParametros.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\bin\Debug\net10.0\3MetodoParametros.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\bin\Debug\net10.0\3MetodoParametros.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\bin\Debug\net10.0\3MetodoParametros.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\bin\Debug\net10.0\3MetodoParametros.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\3MetodoParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\3MetodoParametros.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\3MetodoParametros.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\3MetodoParametros.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\3MetodoParametros.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\3MetodoParametros.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\refint\3MetodoParametros.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\3MetodoParametros.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\3MetodoParametros.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\ref\3MetodoParametros.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\3MetodoParametros\obj\Debug\net10.0\3MetodoP.93EE2D0A.Up2Date

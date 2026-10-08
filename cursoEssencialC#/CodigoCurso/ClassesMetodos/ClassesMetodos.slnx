@@ -1,0 +1,16 @@
+<Solution>
+  <Project Path="10PassandoArgumentosPorValor/10PassandoArgumentosPorValor.csproj" Id="fb86ba0b-45ea-42e8-a9e1-fc7f83cfedb8" />
+  <Project Path="11PassandoArgumentosPorReferenciaREF/11PassandoArgumentosPorReferenciaREF.csproj" Id="db818d14-173b-43a2-981e-012de59fd99b" />
+  <Project Path="12PassagemParametrosReferencia_out/12PassagemParametrosReferencia_out.csproj" Id="0c203bc4-1e05-4c53-b63d-590804f1a959" />
+  <Project Path="13ArgumentosNomeados/13ArgumentosNomeados.csproj" Id="abaf9d5c-d1fa-4c6d-8554-2653be2ddafc" />
+  <Project Path="14ParametrosOpcionais/14ParametrosOpcionais.csproj" Id="5fc1a5ec-b260-40a6-a975-c7ebc66f7354" />
+  <Project Path="2Metodos/2Metodos.csproj" />
+  <Project Path="3MetodoParametros/3MetodoParametros.csproj" Id="1bb6e651-c1f9-4e9f-9138-8d2910e93f1f" />
+  <Project Path="4PassandoParametros/4PassandoParametros.csproj" Id="f8bb151d-a24f-49a2-b4f4-f56d57e53a7e" />
+  <Project Path="5Construtor/5Construtores.csproj" Id="46c8e1d3-560e-4b4d-b03e-f9446d44d9fb" />
+  <Project Path="6This/6This.csproj" Id="c7706630-865a-43ee-a8ce-6c9735bef277" />
+  <Project Path="7MetodosComRetorno/7MetodosComRetorno.csproj" Id="6b0a8414-46c7-46ea-aae7-dbbd771320b5" />
+  <Project Path="8MetodosComRetorno2/8MetodosComRetorno2.csproj" Id="1c26c064-d927-4ea4-8216-b3038cb8ab2e" />
+  <Project Path="9ExemploMetodoComRetorno/9ExemploMetodosComRetorno.csproj" Id="acca59bb-6758-4a37-ab9b-7edfb16ee2aa" />
+  <Project Path="ClassesMetodos/1ClassesMetodos.csproj" />
+</Solution>

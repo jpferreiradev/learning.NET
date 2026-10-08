@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\bin\Debug\net10.0\12PassagemParametrosReferencia_out.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\bin\Debug\net10.0\12PassagemParametrosReferencia_out.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\bin\Debug\net10.0\12PassagemParametrosReferencia_out.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\bin\Debug\net10.0\12PassagemParametrosReferencia_out.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\bin\Debug\net10.0\12PassagemParametrosReferencia_out.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\12PassagemParametrosReferencia_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\12PassagemParametrosReferencia_out.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\12PassagemParametrosReferencia_out.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\12PassagemParametrosReferencia_out.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\12PassagemParametrosReferencia_out.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\12PassagemParametrosReferencia_out.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\refint\12PassagemParametrosReferencia_out.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\12PassagemParametrosReferencia_out.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\12PassagemParametrosReferencia_out.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\ref\12PassagemParametrosReferencia_out.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\12PassagemParametrosReferencia_out\obj\Debug\net10.0\12Passag.FA65E887.Up2Date

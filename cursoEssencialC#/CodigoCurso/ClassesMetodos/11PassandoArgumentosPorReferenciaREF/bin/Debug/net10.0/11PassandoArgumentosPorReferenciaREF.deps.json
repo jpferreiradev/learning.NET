@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "11PassandoArgumentosPorReferenciaREF/1.0.0": {
+        "runtime": {
+          "11PassandoArgumentosPorReferenciaREF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11PassandoArgumentosPorReferenciaREF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

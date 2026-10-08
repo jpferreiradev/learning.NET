@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\EstruturasDeControle\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8725F9FB-2F1B-45DB-AF19-1FCEDF7EED15}|11Repeticao_For2\\11Repeticao_For2.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\fundamentos2\\estruturasdecontrole\\11repeticao_for2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725F9FB-2F1B-45DB-AF19-1FCEDF7EED15}|11Repeticao_For2\\11Repeticao_For2.csproj|solutionrelative:11repeticao_for2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\EstruturasDeControle\\11Repeticao_For2\\Program.cs",
+              "RelativeDocumentMoniker": "11Repeticao_For2\\Program.cs",
+              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\EstruturasDeControle\\11Repeticao_For2\\Program.cs",
+              "RelativeToolTip": "11Repeticao_For2\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T19:57:18.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

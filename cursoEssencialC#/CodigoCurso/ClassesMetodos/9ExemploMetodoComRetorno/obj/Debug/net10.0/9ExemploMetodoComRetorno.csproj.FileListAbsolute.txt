@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\bin\Debug\net10.0\9ExemploMetodoComRetorno.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\bin\Debug\net10.0\9ExemploMetodoComRetorno.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\bin\Debug\net10.0\9ExemploMetodoComRetorno.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\bin\Debug\net10.0\9ExemploMetodoComRetorno.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\bin\Debug\net10.0\9ExemploMetodoComRetorno.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\9ExemploMetodoComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\9ExemploMetodoComRetorno.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\9ExemploMetodoComRetorno.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\9ExemploMetodoComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\9ExemploMetodoComRetorno.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\9ExemploMetodoComRetorno.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\refint\9ExemploMetodoComRetorno.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\9ExemploMetodoComRetorno.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\9ExemploMetodoComRetorno.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\ref\9ExemploMetodoComRetorno.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\9ExemploMetodoComRetorno\obj\Debug\net10.0\9Exemplo.F159E819.Up2Date
