@@ -39,7 +39,7 @@ dynamic nome2 = "JP";
 dynamic ativo1 = true;
 dynamic letra1= 'A';
 
-Console.WriteLine(nota2);
+Console.WriteLine("Aqui é uma tipo dynamic = " + nota2);
 Console.WriteLine(valor2);
 Console.WriteLine(nome2);
 Console.WriteLine(ativo1);

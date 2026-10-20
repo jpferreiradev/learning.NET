@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\TiposDeDados2\\TiposDeDados2.csproj",
-      "projectName": "TiposDeDados2",
-      "projectPath": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\TiposDeDados2\\TiposDeDados2.csproj",
+      "projectUniqueName": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\TiposDeDados2\\02TiposDeDados2.csproj",
+      "projectName": "02TiposDeDados2",
+      "projectPath": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\TiposDeDados2\\02TiposDeDados2.csproj",
       "packagesPath": "C:\\Users\\jopas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\TiposDeDados2\\obj\\",
       "projectStyle": "PackageReference",
@@ -74,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

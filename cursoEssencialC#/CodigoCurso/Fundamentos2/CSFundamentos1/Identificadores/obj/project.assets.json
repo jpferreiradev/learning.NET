@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\Identificadores\\Identificadores.csproj",
-      "projectName": "Identificadores",
-      "projectPath": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\Identificadores\\Identificadores.csproj",
+      "projectUniqueName": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\Identificadores\\22Identificadores.csproj",
+      "projectName": "22Identificadores",
+      "projectPath": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\Identificadores\\22Identificadores.csproj",
       "packagesPath": "C:\\Users\\jopas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jopas\\Programação\\Programação\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\Fundamentos2\\CSFundamentos1\\Identificadores\\obj\\",
       "projectStyle": "PackageReference",
@@ -74,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\bin\Debug\net10.0\21ModificadoresDeAcesso.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\bin\Debug\net10.0\21ModificadoresDeAcesso.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\bin\Debug\net10.0\21ModificadoresDeAcesso.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\bin\Debug\net10.0\21ModificadoresDeAcesso.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\bin\Debug\net10.0\21ModificadoresDeAcesso.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\21ModificadoresDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\21ModificadoresDeAcesso.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\21ModificadoresDeAcesso.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\21ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\21ModificadoresDeAcesso.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\21ModificadoresDeAcesso.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\refint\21ModificadoresDeAcesso.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\21ModificadoresDeAcesso.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\21ModificadoresDeAcesso.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\ref\21ModificadoresDeAcesso.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\21ModificadoresDeAcesso\obj\Debug\net10.0\21Modifi.B44AE5FE.Up2Date

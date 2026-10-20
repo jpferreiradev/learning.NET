@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\bin\Debug\net10.0\15MetodosEstaticos.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\bin\Debug\net10.0\15MetodosEstaticos.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\bin\Debug\net10.0\15MetodosEstaticos.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\bin\Debug\net10.0\15MetodosEstaticos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\bin\Debug\net10.0\15MetodosEstaticos.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\15MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\15MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\15MetodosEstaticos.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\15MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\15MetodosEstaticos.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\15MetodosEstaticos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\refint\15MetodosEstaticos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\15MetodosEstaticos.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\15MetodosEstaticos.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\ref\15MetodosEstaticos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\15MetodosEstaticos\obj\Debug\net10.0\15Metodo.2C45D711.Up2Date

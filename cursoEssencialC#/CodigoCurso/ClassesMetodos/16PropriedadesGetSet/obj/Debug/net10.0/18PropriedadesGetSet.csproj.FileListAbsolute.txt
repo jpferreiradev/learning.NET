@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\bin\Debug\net10.0\18PropriedadesGetSet.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\bin\Debug\net10.0\18PropriedadesGetSet.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\bin\Debug\net10.0\18PropriedadesGetSet.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\bin\Debug\net10.0\18PropriedadesGetSet.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\bin\Debug\net10.0\18PropriedadesGetSet.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\18PropriedadesGetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\18PropriedadesGetSet.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\18PropriedadesGetSet.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\18PropriedadesGetSet.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\18PropriedadesGetSet.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\18PropriedadesGetSet.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\refint\18PropriedadesGetSet.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\18PropriedadesGetSet.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\18PropriedadesGetSet.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\ref\18PropriedadesGetSet.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16PropriedadesGetSet\obj\Debug\net10.0\18Propri.4933CDA3.Up2Date

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10PassandoArgumentosPorValor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ee04504ec394853cedbda9196b426ff879794e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+814a537d95dbe36a90e30d3acbd8d298d34a5509")]
 [assembly: System.Reflection.AssemblyProductAttribute("10PassandoArgumentosPorValor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10PassandoArgumentosPorValor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

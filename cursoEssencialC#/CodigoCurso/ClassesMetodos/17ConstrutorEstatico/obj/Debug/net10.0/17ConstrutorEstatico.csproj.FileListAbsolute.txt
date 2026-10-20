@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\bin\Debug\net10.0\17ConstrutorEstatico.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\bin\Debug\net10.0\17ConstrutorEstatico.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\bin\Debug\net10.0\17ConstrutorEstatico.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\bin\Debug\net10.0\17ConstrutorEstatico.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\bin\Debug\net10.0\17ConstrutorEstatico.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\17ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\17ConstrutorEstatico.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\17ConstrutorEstatico.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\17ConstrutorEstatico.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\17ConstrutorEstatico.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\17ConstrutorEstatico.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\refint\17ConstrutorEstatico.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\17ConstrutorEstatico.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\17ConstrutorEstatico.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\ref\17ConstrutorEstatico.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\17ConstrutorEstatico\obj\Debug\net10.0\17Constr.FCE8E17E.Up2Date

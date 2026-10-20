@@ -17,8 +17,6 @@ Console.WriteLine(dataAtual.Minute);
 Console.WriteLine(dataAtual.Second);
 Console.WriteLine(dataAtual.Millisecond);
 
-
-
 // Adicionando valores
 
 Console.WriteLine(dataAtual.AddDays(30));

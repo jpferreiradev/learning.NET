@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\bin\Debug\net10.0\23TiposAnonimos.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\bin\Debug\net10.0\23TiposAnonimos.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\bin\Debug\net10.0\23TiposAnonimos.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\bin\Debug\net10.0\23TiposAnonimos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\bin\Debug\net10.0\23TiposAnonimos.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\23TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\23TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\23TiposAnonimos.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\23TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\23TiposAnonimos.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\23TiposAnonimos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\refint\23TiposAnonimos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\23TiposAnonimos.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\23TiposAnonimos.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\ref\23TiposAnonimos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\23TiposAnonimos\obj\Debug\net10.0\23TiposA.FC7AE52C.Up2Date

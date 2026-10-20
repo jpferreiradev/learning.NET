@@ -1,0 +1,16 @@
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\bin\Debug\net10.0\16CamposEstaticos.exe
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\bin\Debug\net10.0\16CamposEstaticos.deps.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\bin\Debug\net10.0\16CamposEstaticos.runtimeconfig.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\bin\Debug\net10.0\16CamposEstaticos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\bin\Debug\net10.0\16CamposEstaticos.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\16CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\16CamposEstaticos.AssemblyInfoInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\16CamposEstaticos.AssemblyInfo.cs
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\16CamposEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\16CamposEstaticos.sourcelink.json
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\16CamposEstaticos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\refint\16CamposEstaticos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\16CamposEstaticos.pdb
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\16CamposEstaticos.genruntimeconfig.cache
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\ref\16CamposEstaticos.dll
+C:\Users\jopas\Programação\Programação\Back-end\C#\lerning.net\cursoEssencialC#\CodigoCurso\ClassesMetodos\16CamposEstaticos\obj\Debug\net10.0\16Campos.553B1150.Up2Date

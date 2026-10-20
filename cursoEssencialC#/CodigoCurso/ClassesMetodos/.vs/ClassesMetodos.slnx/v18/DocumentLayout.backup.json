@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FC1A5EC-B260-40A6-A975-C7EBC66F7354}|14ParametrosOpcionais\\14ParametrosOpcionais.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\classesmetodos\\14parametrosopcionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC1A5EC-B260-40A6-A975-C7EBC66F7354}|14ParametrosOpcionais\\14ParametrosOpcionais.csproj|solutionrelative:14parametrosopcionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FF8FC2D-B1DF-462C-B315-E437850BF96F}|24ParticalClass\\24ParticalClass.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\classesmetodos\\24particalclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF8FC2D-B1DF-462C-B315-E437850BF96F}|24ParticalClass\\24ParticalClass.csproj|solutionrelative:24particalclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABAF9D5C-D1FA-4C6D-8554-2653BE2DDAFC}|13ArgumentosNomeados\\13ArgumentosNomeados.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\classesmetodos\\13argumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABAF9D5C-D1FA-4C6D-8554-2653BE2DDAFC}|13ArgumentosNomeados\\13ArgumentosNomeados.csproj|solutionrelative:13argumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FF8FC2D-B1DF-462C-B315-E437850BF96F}|24ParticalClass\\24ParticalClass.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\classesmetodos\\24particalclass\\minhapartialclassmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF8FC2D-B1DF-462C-B315-E437850BF96F}|24ParticalClass\\24ParticalClass.csproj|solutionrelative:24particalclass\\minhapartialclassmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF8FC2D-B1DF-462C-B315-E437850BF96F}|24ParticalClass\\24ParticalClass.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\classesmetodos\\24particalclass\\minhapartialclassprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF8FC2D-B1DF-462C-B315-E437850BF96F}|24ParticalClass\\24ParticalClass.csproj|solutionrelative:24particalclass\\minhapartialclassprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA42385-10C4-4AEB-B656-E98B16064177}|23TiposAnonimos\\23TiposAnonimos.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\classesmetodos\\23tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA42385-10C4-4AEB-B656-E98B16064177}|23TiposAnonimos\\23TiposAnonimos.csproj|solutionrelative:23tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02822BE0-1533-4453-B9CA-CC085CA1A6E5}|22BlocoTryCath\\22BlocoTryCath.csproj|c:\\users\\jopas\\programa\u00E7\u00E3o\\programa\u00E7\u00E3o\\back-end\\c#\\lerning.net\\cursoessencialc#\\codigocurso\\classesmetodos\\22blocotrycath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02822BE0-1533-4453-B9CA-CC085CA1A6E5}|22BlocoTryCath\\22BlocoTryCath.csproj|solutionrelative:22blocotrycath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +30,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\14ParametrosOpcionais\\Program.cs",
-              "RelativeDocumentMoniker": "14ParametrosOpcionais\\Program.cs",
-              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\14ParametrosOpcionais\\Program.cs",
-              "RelativeToolTip": "14ParametrosOpcionais\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MinhaPartialClassMetodos.cs",
+              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\24ParticalClass\\MinhaPartialClassMetodos.cs",
+              "RelativeDocumentMoniker": "24ParticalClass\\MinhaPartialClassMetodos.cs",
+              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\24ParticalClass\\MinhaPartialClassMetodos.cs",
+              "RelativeToolTip": "24ParticalClass\\MinhaPartialClassMetodos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T13:10:23.824Z",
+              "WhenOpened": "2026-10-20T12:26:23.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\13ArgumentosNomeados\\Program.cs",
-              "RelativeDocumentMoniker": "13ArgumentosNomeados\\Program.cs",
-              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\13ArgumentosNomeados\\Program.cs",
-              "RelativeToolTip": "13ArgumentosNomeados\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MinhaPartialClassProps.cs",
+              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\24ParticalClass\\MinhaPartialClassProps.cs",
+              "RelativeDocumentMoniker": "24ParticalClass\\MinhaPartialClassProps.cs",
+              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\24ParticalClass\\MinhaPartialClassProps.cs",
+              "RelativeToolTip": "24ParticalClass\\MinhaPartialClassProps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T19:56:35.386Z",
+              "WhenOpened": "2026-10-20T12:24:44.322Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\24ParticalClass\\Program.cs",
+              "RelativeDocumentMoniker": "24ParticalClass\\Program.cs",
+              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\24ParticalClass\\Program.cs",
+              "RelativeToolTip": "24ParticalClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:37:43.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\23TiposAnonimos\\Program.cs",
+              "RelativeDocumentMoniker": "23TiposAnonimos\\Program.cs",
+              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\23TiposAnonimos\\Program.cs",
+              "RelativeToolTip": "23TiposAnonimos\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:45:36.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\22BlocoTryCath\\Program.cs",
+              "RelativeDocumentMoniker": "22BlocoTryCath\\Program.cs",
+              "ToolTip": "C:\\Users\\jopas\\Programa\u00E7\u00E3o\\Programa\u00E7\u00E3o\\Back-end\\C#\\lerning.net\\cursoEssencialC#\\CodigoCurso\\ClassesMetodos\\22BlocoTryCath\\Program.cs",
+              "RelativeToolTip": "22BlocoTryCath\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:36:50.911Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

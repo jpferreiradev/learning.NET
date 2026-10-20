@@ -4,6 +4,16 @@
   <Project Path="12PassagemParametrosReferencia_out/12PassagemParametrosReferencia_out.csproj" Id="0c203bc4-1e05-4c53-b63d-590804f1a959" />
   <Project Path="13ArgumentosNomeados/13ArgumentosNomeados.csproj" Id="abaf9d5c-d1fa-4c6d-8554-2653be2ddafc" />
   <Project Path="14ParametrosOpcionais/14ParametrosOpcionais.csproj" Id="5fc1a5ec-b260-40a6-a975-c7ebc66f7354" />
+  <Project Path="15MetodosEstaticos/15MetodosEstaticos.csproj" Id="1d7bb824-7f4f-465b-a1d2-d3b9bc1c277f" />
+  <Project Path="16CamposEstaticos/16CamposEstaticos.csproj" Id="5974c85a-1442-477f-8c7b-285b77cf3843" />
+  <Project Path="16PropriedadesGetSet/18PropriedadesGetSet.csproj" Id="d77daf2b-a47a-4142-829e-a8ae8becf336" />
+  <Project Path="17ConstrutorEstatico/17ConstrutorEstatico.csproj" Id="9dc07d44-7db8-4cae-b979-c0e7d0c0c2bd" />
+  <Project Path="19Structs/19Structs.csproj" Id="5dc68075-3484-4914-8626-e6cd45e3b953" />
+  <Project Path="20Enum/20Enum.csproj" Id="a1583230-27f5-4eea-8b6b-25e39bbb758e" />
+  <Project Path="21ModificadoresDeAcesso/21ModificadoresDeAcesso.csproj" Id="7bdd64b3-e19c-41a0-85c7-c844de6482af" />
+  <Project Path="22BlocoTryCath/22BlocoTryCath.csproj" Id="02822be0-1533-4453-b9ca-cc085ca1a6e5" />
+  <Project Path="23TiposAnonimos/23TiposAnonimos.csproj" Id="2da42385-10c4-4aeb-b656-e98b16064177" />
+  <Project Path="24ParticalClass/24ParticalClass.csproj" Id="4ff8fc2d-b1df-462c-b315-e437850bf96f" />
   <Project Path="2Metodos/2Metodos.csproj" />
   <Project Path="3MetodoParametros/3MetodoParametros.csproj" Id="1bb6e651-c1f9-4e9f-9138-8d2910e93f1f" />
   <Project Path="4PassandoParametros/4PassandoParametros.csproj" Id="f8bb151d-a24f-49a2-b4f4-f56d57e53a7e" />
